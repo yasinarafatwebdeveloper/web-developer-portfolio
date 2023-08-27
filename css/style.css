@@ -161,4 +161,23 @@ margin-left: 200px; */
 .text-info{
     text-align: center;
 }
+.next-item{
+    text-align: center;
+    margin-top: 150px;
+}
+.same-item{
+    max-width: 200px;
+    /* color: var(--dark-03, #757575); */
+
+font-size: 16px;
+
+font-weight: 400;
+line-height: 28px;
+margin-top: 70px;
+}
+.major-div{
+    display: flex;
+    justify-content: space-between;
+}
+
 
