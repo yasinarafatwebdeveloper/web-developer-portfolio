@@ -166,18 +166,36 @@ margin-left: 200px; */
     margin-top: 150px;
 }
 .same-item{
-    max-width: 200px;
+    /* max-width: 200px; */
     /* color: var(--dark-03, #757575); */
-
+padding: 30px;
 font-size: 16px;
 
 font-weight: 400;
 line-height: 28px;
 margin-top: 70px;
+gap: 50px;
+margin-left: 39px;
+border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 2px 10px 0px;
 }
 .major-div{
     display: flex;
     justify-content: space-between;
 }
+.resumi{
+    display: flex;
+    justify-content: space-between;
+}
+.summary{
+    text-align: center;
+}
+section{
+    margin-top: 130px;
+}
 
-
+.resumi-education{
+    margin-top: 70px;
+    margin-left: 20px;
+}
